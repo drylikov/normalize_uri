@@ -54,6 +54,7 @@ normalizeUri('👌') // => '%F0%9F%91%8C'
 
 
 
+
 This package exports the following identifiers: `normalizeUri`.
 There is no default export.
 
