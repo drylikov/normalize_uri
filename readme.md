@@ -83,3 +83,4 @@ This only works when both `encodeURI` and `decodeURI` are available.
 [size]: https://bundlephobia.com/result?p=normalize_uri
 
 [npm]: https://docs.npmjs.com/cli/install
+
