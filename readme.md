@@ -84,3 +84,4 @@ This only works when both `encodeURI` and `decodeURI` are available.
 
 [npm]: https://docs.npmjs.com/cli/install
 
+
