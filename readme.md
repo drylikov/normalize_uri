@@ -3,7 +3,7 @@
 
 
 
-# normalize_uri
+# Normalize uri 
 
 [![Build][build-badge]][build]
 [![Coverage][coverage-badge]][coverage]
